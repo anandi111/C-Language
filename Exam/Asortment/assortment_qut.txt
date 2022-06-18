@@ -1,0 +1,10 @@
+Assortment
+
+1. Write C program to print all negative elements in an array.
+2. Write C program to find second largest number in array.
+3. Write C program to count frequency of each element in an array.
+4. Write C program to Insert, Delete & Update operations the element into array.
+5. Write C program to left rotate and right rotate an array
+6. Write C program to addition of two matrices
+7. Write C program matrix convert into transpose matrix.
+8. Write C program to find sum of diagonal elements of a matrix.

@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+main()
+{
+	int i,j,k,p,u;
+	
+	for(i=1,u=5;i<=5;i++,u--)
+	{
+		for(k=i;k<=5;k++)
+		{
+			printf(" ");
+		}
+		for(j=1,p=u;j<=i;j++,p++)
+		{
+			printf("%i",p);
+		}
+		printf("\n");
+	}
+}
